@@ -1,0 +1,17 @@
+#ar ul {
+    margin: 0;
+    padding: 0.7rem 0 0;
+    text-align: left;
+}
+#ar li {
+    list-style: none;
+    display: inline-block;
+}
+#ar a {
+    font-family: 'Oswald', sans-serif;
+    color: #003366;
+    padding-top: 0.7rem;
+}
+#ar a:hover, #hero a:active {
+    color: #8D6E63;
+}

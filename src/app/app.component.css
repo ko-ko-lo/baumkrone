@@ -1,0 +1,33 @@
+mat-drawer-container, mat-drawer, mad-drawer-content {
+    height: 100%;
+}
+.mat-drawer-container a {
+    font-family: 'Oswald', sans-serif; 
+    font-size: 1.125rem;
+    color: #003366;
+}
+mat-drawer {
+    width: 250px;
+}
+.mat-mdc-button > .mat-icon {
+    font-size: 1.5rem;
+}
+.mat-drawer-container div {
+    color: #003366;
+}
+.mat-toolbar.mat-primary {
+    background-color: #003366;
+    padding: 2.2rem 0;
+}
+mat-sidenav-container {
+    width: 100%;
+}
+mat-toolbar a {
+    font-family: 'Oswald',sans-serif;
+    margin: 0;
+}
+#logo a {
+    font-family: 'Permanent Marker', sans-serif;
+    color: #07E17A;
+    font-size: 1.8rem;
+}
